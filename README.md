@@ -1,5 +1,6 @@
 # 3StagePipeline
 This project is to demonstrate a simple pipeline consisting of 3 stages
+<<<<<<< HEAD
 Project Details:
 Entire project is built using open source tools called [Qflow](http://opencircuitdesign.com/qflow/)
 
@@ -12,3 +13,5 @@ sta       : [vesta](http://opencircuitdesign.com/qflow/) // part of qflow packag
 Routing   : [qrouter](https://opencircuitdesign.com/qrouter/)
 Layout 	  : [Magic](http://opencircuitdesign.com/magic/)
 
+=======
+>>>>>>> 28261b0efe8b2c2157bc84dea5b92e9759b636ac
