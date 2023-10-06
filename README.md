@@ -13,7 +13,7 @@ sta       : [vesta](http://opencircuitdesign.com/qflow/) <br>
 Routing   : [qrouter](https://opencircuitdesign.com/qrouter/)<br>
 Layout 	  : [Magic](http://opencircuitdesign.com/magic/)<br>
 
-I followed [these steps](https://github.com/kunalg123/vsdflow) to setup<br>
+I followed [these steps](https://github.com/kunalg123/vsdflow#readme) to setup<br>
 
 # RepoDetails
 [output](https://github.com/Pavan-Kendaganna-Swamy/3StagePipeline/tree/main/output) folder contains logs and layout <br> 
@@ -27,6 +27,6 @@ Here are some screenshots from log<br>
 ![PostRouteSTA](/home/pavan/Pictures/Screenshots/postSTA.png)<br>
 ![DRC](/home/pavan/Pictures/Screenshots/DRC.png)<br>
 ![LVS](/home/pavan/Pictures/Screenshots/LVS.png)<br>
-![Layout](/home/pavan/vsdflow/verilog/projects/pipeline/output/layout.png)<br>
+![Layout](https://github.com/Pavan-Kendaganna-Swamy/3StagePipeline/blob/main/output/layout.png)<br>
 
 
