@@ -1,5 +1,6 @@
 # 3StagePipeline
-This project is to demonstrate a simple pipeline consisting of 3 stages<br>
+This project is to demonstrate Design Implementation flow<br>
+Here, I have used a simple pipeline consisting of 3 stages<br>
 
 Project Details:<br>
 Entire project is built using open source tools called [Qflow](http://opencircuitdesign.com/qflow/)<br>
